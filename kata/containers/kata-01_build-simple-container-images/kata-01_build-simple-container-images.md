@@ -5,11 +5,12 @@ This kata wanted train you to build a simple http service container images. The 
 Some things in http space mean today serve your information as with REST or gRPC style.
 Promote your result inside a container image and push it to registry. For example:
 
-* Setup or copy a HTTP-Service like whoami from emilevauge or a Spring Boot microservice. Your goal is build a simple running container with quality :-)
+* Setup or copy a HTTP-Service like whoami from emilevauge or a Spring Boot microservice. Your goal is build a simple running http service container with quality :-)
 * Think about how easy is building a new image with Docker CE and a Dockerfile
 * If your service scale, how much ressource the service consumes?
 * Find rules how a good container images look like?
 * Pushing the result to a registry
+* Build the service with [12 factor rules](https://12factor.net) in mind!
 
 ## Other nice questions
 
