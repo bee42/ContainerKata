@@ -22,7 +22,8 @@ There are no right or wrong answers in these kata: the benefit comes from the pr
 
 ## Container Katas
 
-[build simple container images](/kata/containers/kata-01-build-simple-container-images/)
+[build simple container images](/kata/containers/kata-01-build-simple-container-images/kata-01_build-simple-container-images.md)
+[split a legacy container image](/kata/containers/kata-02_split-legacy-image/kata-02_split-legacy-image.md)
 
 Regards the fantastic bee42 crew and friends
 
