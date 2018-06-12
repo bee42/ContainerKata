@@ -22,10 +22,11 @@ There are no right or wrong answers in these kata: the benefit comes from the pr
 
 ## Container Katas
 
-* [build simple container images](/kata/containers/kata-01-build-simple-container-images/kata-01_build-simple-container-images.md)
-* [split a legacy container image](/kata/containers/kata-02_split-legacy-image/kata-02_split-legacy-image.md)
+* [Build simple container images](/kata/containers/kata-01-build-simple-container-images/kata-01_build-simple-container-images.md)
+* [Reduce a legacy container image](/kata/containers/kata-02_reduce-legacy-image-size/kata-02_reduce-legacy-image-size.md)
+* [Redesign a legacy app](/kata/containers/kata-03_redesign-legacy-app/kata-03_redesign-legacy-app.md)
 
-Regards the fantastic bee42 crew and friends
+Regards the fantastic bee42 crew and friends for many discussion!
 
 * Niclas <niclas.mietz@bee42.com>
 * Kevin <kevin.wittek@styracosoft.de>
