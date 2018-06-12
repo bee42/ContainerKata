@@ -1,4 +1,4 @@
-# Kata-02: Split a leagcy services
+# Kata-03: Split a leagcy services
 
 This kata wanted train you to split a monolith leagcy app into smaller separated service.
 The existing IT-world love monoliths. Nothing is really wrong with a good modular monolith application.
