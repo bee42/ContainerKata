@@ -22,7 +22,7 @@ There are no right or wrong answers in these kata: the benefit comes from the pr
 
 ## Container Katas
 
-* [Build simple container images](/kata/containers/kata-01-build-simple-container-images/kata-01_build-simple-container-images.md)
+* [Build simple container images](/kata/containers/kata-01_build-simple-container-images/kata-01_build-simple-container-images.md)
 * [Reduce a legacy container image](/kata/containers/kata-02_reduce-legacy-image-size/kata-02_reduce-legacy-image-size.md)
 * [Redesign a legacy app](/kata/containers/kata-03_redesign-legacy-app/kata-03_redesign-legacy-app.md)
 
