@@ -1,4 +1,4 @@
-# Kata-04: Build Scratch Images with a User
+# Kata-06: Build Scratch Images with a User
 
 
 When you are using Scratch Layers in your Docker Images are these the final step to archieve. Sometimes you also want to provide more stability in terms of a separate user for app or providing certificates to the application. But how could this work in real ? 
