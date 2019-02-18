@@ -1,4 +1,4 @@
-# Kata-04: Build an image for your Windows app
+# Kata-07: Build an image for your Windows app
 
 
 When you are googeling for things like "Docker and Windows", you'll be able to find lot of articles, guides and blog posts telling you how to do it. But how much of a real life example do these articles actually provide? 
